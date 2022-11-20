@@ -1,7 +1,11 @@
 ### Olá, estou no processo de aprendizagem das linguagens de Python e HTML.
 
-
-
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+Contato:
+<br>
+<a href="mailto:igor439@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <!--
 **IgorDaltoe/IgorDaltoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
