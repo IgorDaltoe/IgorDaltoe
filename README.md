@@ -1,4 +1,4 @@
-### Olá, estou no processo de aprendizagem das linguagens de Python e HTML.
+### Olá, estou estudando programação, no momento estou estudando as linguagens de Python, HTML e CSS.
 
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
